@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", "Raleway" sans-serif;
     background-color: #ffffff;
     color: #434455;
 }
@@ -13,13 +13,16 @@ body {
     /*border-radius: 8px;*/
 }
 
-header .logo {
+.nav .logo {
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     line-height: 1.17;
     font-weight: 700;
     text-decoration: none;
     color: #4D5AE5;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .logo .logo-studio {
@@ -43,29 +46,39 @@ ul {
     color: #2E2F42;
     line-height: 1.5;
     font-weight: 500;
+    letter-spacing: 0.02em;
 }
 
+.head-list li a:hover {
+    color: #404bbf;
+}
 
-address {
+.head-list li a:focus {
+    color: #404bbf;
+}
+
+.add_ress {
     color: #434455;
-
+    font-style: normal;
 }
 
 .address-list li a {
-    font-size: 14px;
+    font-size: 16px;
     font-family: "Roboto", sans-serif;
     text-decoration: none;
     color: #434455;
     line-height: 1.5;
     font-weight: 400;
+    letter-spacing: 0.02em;
 }
 
+.address-list li a:focus {
+    color: #404bbf;
+}
 
-/*address a {
-    text-decoration: none;
-    color: #434455;
-    text-align: right;
-}*/
+.address-list li a:hover {
+    color: #404bbf;
+}
 
 
 
@@ -196,7 +209,7 @@ address {
     text-align: left;
 }
 
-.logo-footer {
+.foo_ter .logo {
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     line-height: 1.17;
