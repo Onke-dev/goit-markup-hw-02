@@ -78,7 +78,7 @@ ul {
 
 /*************************** Section 1 *****************************/
 
-.sec1 {
+.sec-first {
     background-color: #2E2F42;
     color: #ffffff;
     text-align: center;
@@ -112,12 +112,12 @@ ul {
 
 /*************************** Section 2 *****************************/
 
-.main-title-sec2 {
+.main-title-sec-cecond {
     text-decoration: none;
 }
 
 
-.list-sec2 li .title-sec2 {
+.list-sec-cecond li .title-sec-cecond {
     font-size: 20px;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -126,7 +126,7 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.list-sec2 li .paragraph-sec2 {
+.list-sec-cecond li .paragraph-sec-cecond {
     font-size: 16px;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -139,12 +139,12 @@ ul {
 /*************************** Section 3 *****************************/
 
 
-.sec3 {
+.sec-third {
     background-color: #F4F4FD;
 }
 
 
-.sec3 .main-title-sec3 {
+.sec-third .main-title-sec-third {
     font-size: 36px;
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -155,12 +155,12 @@ ul {
     text-transform: capitalize;
 }
 
-.sec3 ul li {
+.sec-third ul li {
     background-color: #ffffff;
 
 }
 
-.sec3 ul li .title-sec3 {
+.sec-third ul li .title-sec-third {
     font-size: 20px;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -170,7 +170,7 @@ ul {
     text-transform: capitalize;
 }
 
-.sec3 ul li .paragraph-sec3 {
+.sec-third ul li .paragraph-sec-third {
     font-size: 16px;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -182,11 +182,11 @@ ul {
 
 /*************************** Section 4 *****************************/
 
-.sec4 {
+.sec-fourth {
     background-color: #E7E9FC;
 }
 
-.sec4 h2 {
+.sec-fourth .page-title-fourth {
     font-size: 36px;
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -195,7 +195,7 @@ ul {
     color: #2E2F42;
 }
 
-.list-sec4 li h3 {
+.list-sec-fourth li h3 {
     font-size: 20px;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -203,7 +203,7 @@ ul {
     color: #2E2F42;
 }
 
-.list-sec4 li p {
+.list-sec-fourth li p {
     font-size: 16px;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
