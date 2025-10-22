@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", "Raleway" sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #ffffff;
     color: #434455;
 }
@@ -95,13 +95,27 @@ ul {
 .page-title {
     font-size: 56px;
     font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 .btn {
     background-color: #4D5AE5;
     color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
 
+.btn:hover {
+    background-color: #404BBF;
+}
 
+.btn:focus {
+    background-color: #404BBF;
 }
 
 /*************************** Section 2 *****************************/
