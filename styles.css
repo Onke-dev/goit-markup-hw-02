@@ -100,7 +100,7 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.btn {
+.bttn {
     background-color: #4D5AE5;
     color: #ffffff;
     font-family: "Roboto", sans-serif;
@@ -111,11 +111,11 @@ ul {
     cursor: pointer;
 }
 
-.btn:hover {
+.bttn:hover {
     background-color: #404BBF;
 }
 
-.btn:focus {
+.bttn:focus {
     background-color: #404BBF;
 }
 
