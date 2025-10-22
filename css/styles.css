@@ -8,9 +8,6 @@ body {
 
 .head {
     background-color: #ffffff;
-    width: 1440px;
-    height: 72px;
-    /*border-radius: 8px;*/
 }
 
 .nav .logo {
@@ -83,8 +80,6 @@ ul {
 
 .sec1 {
     background-color: #2E2F42;
-    width: 1440px;
-    height: 600px;
     color: #ffffff;
     text-align: center;
 }
@@ -117,6 +112,10 @@ ul {
 
 /*************************** Section 2 *****************************/
 
+.main-title-sec2 {
+    text-decoration: none;
+}
+
 
 .list-sec2 li .title-sec2 {
     font-size: 20px;
@@ -142,8 +141,6 @@ ul {
 
 .sec3 {
     background-color: #F4F4FD;
-    width: 1440px;
-    height: 732px;
 }
 
 
@@ -160,8 +157,6 @@ ul {
 
 .sec3 ul li {
     background-color: #ffffff;
-    width: 264px;
-    height: 380px;
 
 }
 
@@ -189,8 +184,6 @@ ul {
 
 .sec4 {
     background-color: #E7E9FC;
-    width: 1128px;
-    height: 1000px;
 }
 
 .sec4 h2 {
@@ -222,8 +215,6 @@ ul {
 
 .foo_ter {
     background-color: #2E2F42;
-    width: 1440px;
-    height: 312px;
     text-align: left;
 }
 
