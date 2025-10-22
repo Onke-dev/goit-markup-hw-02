@@ -151,28 +151,32 @@ ul {
 }
 
 
-.sec3 h2 {
+.sec3 .main-title-sec3 {
     font-size: 36px;
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     line-height: 1.11;
     text-align: center;
     color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
 .sec3 ul li {
     background-color: #ffffff;
     width: 264px;
     height: 380px;
-    /*border-radius: 0 0 4px 4px;*/
+    
 }
 
-.sec3 ul li h3 {
-    font-size: 20px;
+.sec3 ul li .title-sec3 {
+    font-size: 16px;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     line-height: 1.2;
     color: #2E2F42;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    letter-spacing: 0.02em;
 }
 
 .sec3 ul li p {
