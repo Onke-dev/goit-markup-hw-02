@@ -72,7 +72,7 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.address-list li .info:hover,
+.address-list li .info_mail:hover,
 .address-list li .info:focus {
     color: #404bbf;
 }
