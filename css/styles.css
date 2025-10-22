@@ -155,12 +155,12 @@ ul {
     text-transform: capitalize;
 }
 
-.sec-third ul li {
+.list-sec-third li {
     background-color: #ffffff;
 
 }
 
-.sec-third ul li .title-sec-third {
+.list-sec-third li .title-sec-third {
     font-size: 20px;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -170,7 +170,7 @@ ul {
     text-transform: capitalize;
 }
 
-.sec-third ul li .paragraph-sec-third {
+.list-sec-third li .paragraph-sec-third {
     font-size: 16px;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
