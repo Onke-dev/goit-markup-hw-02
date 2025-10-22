@@ -13,7 +13,6 @@ body {
 .nav .logo {
     font-size: 18px;
     font-family: "Raleway", sans-serif;
-    line-height: 1.17;
     font-weight: 700;
     text-decoration: none;
     color: #4D5AE5;
@@ -193,22 +192,26 @@ ul {
     line-height: 1.11;
     text-align: center;
     color: #2E2F42;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
-.list-sec-fourth li h3 {
+.list-sec-fourth li .title-sec-fourth {
     font-size: 20px;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     line-height: 1.2;
     color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
-.list-sec-fourth li p {
+.list-sec-fourth li .paragraph-sec-fourth {
     font-size: 16px;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     line-height: 1.5;
     color: #434455;
+    letter-spacing: 0.02em;
 }
 
 /*************************** Footer *****************************/
